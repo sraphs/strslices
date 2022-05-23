@@ -1,38 +1,8 @@
-# go-starter
+# strslices
 
 [![CI](https://github.com/sraphs/strslices/actions/workflows/ci.yml/badge.svg)](https://github.com/sraphs/strslices/actions/workflows/ci.yml)
 
->  Go project template repository
-
-
-## Work flow
-
-1. Create a new repository from go-starter
-2. Use `make rename` to change go mod name
-2. Create a dev branch from main
-3. Make changes
-4. Commit code
-5. Merge pull requests
-5. Create tag
-6. Git Action auto generate CHANGELOG.md and create release
-
-## Features
-
-- xxxx
-- xxxx
-- xxxx
-
-## Install
-
-```bash
-go get github.com/sraphs/strslices
-```
-
-## Usage
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+>  strslices defines various functions useful with slices of string type.
 
 ## Contributing
 
